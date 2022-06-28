@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 - pâtes
 - pizza
 - hamburger
+=======
+La communauté de l'anneau
+Les deux tours
+Le retour du roi
+>>>>>>> movies
